@@ -7,6 +7,4 @@ Sensores de presença no formato PIR, são comumente utilizados em uma grande qu
 
 ## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/criando-um-sistema-de-alertas-utilizando-um-sensor-pir/" target="_blank">Portal do Arduino - Criando um sistema de alertas com Arduino e um sensor PIR</a>
 
-Leia o tutorial completo em : http://portaldoarduino.com.br/criando-um-sistema-de-alertas-utilizando-um-sensor-pir/
-
 ### Tutorial por Danilo do canal do YouTube Dan Maker: <a href="https://www.youtube.com/channel/UCZbZ0IEMOoLiDxAGM7KBXwA" target="_blank">Dan Maker</a>
